@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NDK Test</string>
+    <string name="Button1_text">Store</string>
+    <string name="Button2_text">Levels</string>
+    <string name="Button3_text">Play</string>
+    <string name="Title_text">NDK Test App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
